@@ -1,20 +1,20 @@
 Network Security #7 at IT Ladkrabang Openhouse 2013
 =========
 
-Network Security เป็นการแข่งขันซึ่งอยู่ภายใต้[กิจกรรมเปิดบ้านไอทีลาดกระบัง](http://openhouse.it.kmitl.ac.th/2013/) ซึ่งในครั้งนี้เป็นครั้งที่ 7 โดยการแข่งขันนี้มุ่งเน้นให้นักเรียนระดับชั้นมัธยมศึกษาตอนปลายได้นำความรู้ด้านความปลอดภัยในระบบคอมพิวเตอร์มาใช้ในการหาช่องโหว่ของระบบที่เตรียมไว้ให้ และเรียนรู้วิธีที่จะป้องกันระบบคอมพิวเตอร์จากช่องโหว่นั้น รวมไปถึงมุ่งเน้นไปในการปลูกฝังจริยธรรมในการใช้คอมพิวเตอร์ด้วย
+Network Security is a competition which is under [Open IT Lat Krabang Activities] (http://openhouse.it.kmitl.ac.th/2013/), which is the 7th time. The upper secondary school has used the knowledge of computer security to find the vulnerabilities of the system provided. And learn how to protect the computer system from that vulnerability Including focusing on cultivating ethics in computer use as well
 
-ซอร์สโค้ดนี้ถูกใช้เป็นโจทย์ในการแข่งขัน Network Security ครั้งที่ 7 ประจำงานเปิดบ้านไอทีลาดกระบังประจำปี 2013 ซึ่งประกอบไปด้วยโจทย์ปัญหาจำนวน 10 ข้อ เกี่ยวข้องกับเรื่อง Web Security, Network และ Basic Programming โดยในการแข่งขันจะถูกกำหนดลักษณะและสิ่งแวดล้อมของระบบดังนี้
+This source code is used as the seventh issue of the Network Security competition for the annual Lat Krabang IT Open House event, which consists of 10 problems related to Web Security, Network and Basic Programming. And the environment of the system as follows
 
-  - ผู้แข่งขันจะถูกกำหนดให้ใช้คอมพิวเตอร์ซึ่งติดตั้งระบบปฏิบัติการลินุกซ์ Ubuntu 13.04 (Raring Ringtail) ในการหาช่องโหว่ ซึ่งติดตั้งโปรแกรมดังต่อไปนี้ Netcat, cURL, Wireshark, Google Chrome รวมไปถึงคอมไพเลอร์ เช่น C, Python, Ruby, Perl, PHP.
-  - มีการติดตั้งส่วนขยายของเบราว์เซอร์ Mozilla Firefox ไว้ดังนี้ Live HTTP Headers, Modify Headers, Edit this Cookies, Firebug.
-  - ไม่อนุญาตให้ผู้เข้าแข่งเข้าถึงอินเทอร์เน็ตระหว่างการแข่งขัน
-  - การแข่งขันจะหาผู้ชนะจากผู้ที่ได้คะแนนสูงสุด 3 อันดับแรก
+  - Competitors will be assigned to use computers that have installed Ubuntu 13.04 (Raring Ringtail) for finding vulnerabilities. Which installs the following programs: Netcat, cURL, Wireshark, Google Chrome, including compilers such as C, Python, Ruby, Perl, PHP.
+  - The Mozilla Firefox browser extension is installed as follows: Live HTTP Headers, Modify Headers, Edit this Cookies, Firebug.
+  - Do not allow competitors to access the internet during the competition.
+  - The competition will find the winner from the top 3 highest score
 
-สำหรับการแข่งขันมีรายละเอียดดังต่อไปนี้
+For the competition, the following details
 
-  - ให้ผู้เข้าแข่งขันหาคีย์จากโจทย์ในเวลาที่กำหนด (3 ชั่วโมง)
-  - หลังจากผู้เข้าแข่งขันหาคีย์จากโจทย์ได้แล้ว ให้นำคีย์ที่มาทำการตรวจสอบโดยระบบว่าถูกต้องหรือไม่ หากคีย์ที่ได้นั้นถูกต้อง ระบบจะทำการเพิ่มคะแนนให้กับผู้เข้าแข่งขันในทีมนั้นๆ
-  - ผู้เข้าแข่งสามารถเลือกทำโจทย์ได้ทุกข้อตามอัธยาศัย
+  - Let the contestants find the key from the problem at the specified time (3 hours)
+  - After the contestants find the key from the problem Bring the key to check by the system whether it is correct or not. If the key is correct The system will add points to the contestants in that team.
+  - Competitors can choose to do all the problems according to their own circumstances.
 
 Developers
 =========
@@ -32,7 +32,3 @@ Thanks
 License
 =========
 The MIT license
-
-  
-
-    
